@@ -1,1 +1,3 @@
-# Propriedades-e-opera-es-com-TimeSpan-v2
+Propriedades e operações com TimeSpan
+
+Testando algumas operções.
